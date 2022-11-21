@@ -1,0 +1,2 @@
+
+<?php echo $__env->make('dashboard.index', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH A:\Git Sotecjor\sotecjo\resources\views/home.blade.php ENDPATH**/ ?>
